@@ -18,12 +18,6 @@ public class Arrayss {
             System.out.println("index[" + i + "] = " + a[i]);
     }
 
-    public void update(int[] a, int index, int nvalue) {
-        if (index < 0 || index >= a.length)
-            System.out.println("Index not found");
-        else
-            a[index] = nvalue;
-    }
 
     public void update(int[] a, int index) {
         if (index < 0 || index >= a.length)
