@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Arrayss {
     Scanner scanner = new Scanner(System.in);
 
+
    /* public void input(int[] a) {
         System.out.println("Please enter " + a.length + " elements:");
         for (int i = 0; i < a.length; i++)
@@ -41,4 +42,5 @@ public class Arrayss {
 
         a[a.length - 1] = Integer.MIN_VALUE;
     }
+
 }
