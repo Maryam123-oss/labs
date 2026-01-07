@@ -25,7 +25,7 @@ public class Main {
 
 
 
-        ///int []numbers=new int[5];
+        //int []numbers=new int[5];
         //  arr.input(numbers);
         // arr.ReverseTraversal(numbers);
 
