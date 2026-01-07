@@ -1,6 +1,6 @@
 package CircualyLinkedList;
 
-import SinglyLinkedList.SinglyLinkedList;
+import CircularLinkedList.CircularLinkedList;
 
 public class CircularLinkedList<E> {
     private Node<E> tail;
